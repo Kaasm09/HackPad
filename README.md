@@ -2,9 +2,9 @@
 My hackpad features 4 programmable keys, a rotary encoder with a push switch, and a few fun decorations!
 
 # Features
-- 4 keys
-- 1 rotary encoder
-- Bottom mounted case providing a softer, more comftorable typing experience
+* 4 keys
+* 1 rotary encoder
+* Bottom mounted case providing a softer, more comftorable typing experience
 
 # Cad Model
 The only external parts for assembling the case required are 8 M3 screws!
