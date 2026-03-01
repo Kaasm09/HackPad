@@ -2,9 +2,9 @@
 My hackpad features 4 programmable keys, a rotary encoder with a push switch, and a few fun decorations!
 
 # Features
--4 keys
--1 rotary encoder
--Bottom mounted case providing a softer, more comftorable typing experience
+- 4 keys
+- 1 rotary encoder
+- Bottom mounted case providing a softer, more comftorable typing experience
 
 # Cad Model
 The only external parts for assembling the case required are 8 M3 screws!
@@ -18,9 +18,9 @@ The only external parts for assembling the case required are 8 M3 screws!
 
 # BOM
 Heres everything you need to assemble!
--1x XIAO RP2040
--4x Cherry MX Switches
--1x EC11 Rotary Encoder
--1x Case (3 Parts)
--1x Knob
--8x M3 16mm Screws
+- 1x XIAO RP2040
+- 4x Cherry MX Switches
+- 1x EC11 Rotary Encoder
+- 1x Case (3 Parts)
+- 1x Knob
+- 8x M3 16mm Screws
