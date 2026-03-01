@@ -18,9 +18,9 @@ The only external parts for assembling the case required are 8 M3 screws!
 
 # BOM
 Heres everything you need to assemble!
-- 1x XIAO RP2040
-- 4x Cherry MX Switches
-- 1x EC11 Rotary Encoder
-- 1x Case (3 Parts)
-- 1x Knob
-- 8x M3 16mm Screws
+* 1x XIAO RP2040
+* 4x Cherry MX Switches
+* 1x EC11 Rotary Encoder
+* 1x Case (3 Parts)
+* 1x Knob
+* 8x M3 16mm Screws
