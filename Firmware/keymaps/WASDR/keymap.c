@@ -48,15 +48,15 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
             return false;
 
         case EMAIL1:
-            SEND_STRING("internetsuperhero18@gmail.com");
+            SEND_STRING("****");
             return false;
 
         case EMAIL2:
-            SEND_STRING("zavier.voigt@student.ccboe.net");
+            SEND_STRING("*****");
             return false;
 
         case PASSWORD:
-            SEND_STRING("Iltvf.vf4l!$");
+            SEND_STRING("*****");
             return false;
     }
 
@@ -73,4 +73,5 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
         tap_code(KC_VOLD);
     }
     return false;
+
 }
